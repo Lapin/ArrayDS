@@ -1,0 +1,60 @@
+    @font-face{
+        font-family:"IQOSW01-Bold";
+        src:url("Fonts/IQOSW01-Bold.woff2") format("woff2"),url("Fonts/IQOSW01-Bold.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW02-Bold";
+        src:url("Fonts/IQOSW02-Bold.woff2") format("woff2"),url("Fonts/IQOSW02-Bold.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW05-Bold";
+        src:url("Fonts/IQOSW05-Bold.woff2") format("woff2"),url("Fonts/IQOSW05-Bold.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW04-Bold";
+        src:url("Fonts/IQOSW04-Bold.woff2") format("woff2"),url("Fonts/IQOSW04-Bold.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW10-Bold";
+        src:url("Fonts/IQOSW10-Bold.woff2") format("woff2"),url("Fonts/IQOSW10-Bold.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW02-Light";
+        src:url("Fonts/IQOSW02-Light.woff2") format("woff2"),url("Fonts/IQOSW02-Light.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW05-Light";
+        src:url("Fonts/IQOSW05-Light.woff2") format("woff2"),url("Fonts/IQOSW05-Light.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW01-Regular";
+        src:url("Fonts/IQOSW01-Regular.woff2") format("woff2"),url("Fonts/IQOSW01-Regular.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW04-Regular";
+        src:url("Fonts/IQOSW04-Regular.woff2") format("woff2"),url("Fonts/IQOSW04-Regular.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW10-Regular";
+        src:url("Fonts/IQOSW10-Regular.woff2") format("woff2"),url("Fonts/IQOSW10-Regular.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW05-Regular";
+        src:url("Fonts/IQOSW05-Regular.woff2") format("woff2"),url("Fonts/IQOSW05-Regular.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW02-Regular";
+        src:url("Fonts/IQOSW02-Regular.woff2") format("woff2"),url("Fonts/IQOSW02-Regular.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW10-Light";
+        src:url("Fonts/IQOSW10-Light.woff2") format("woff2"),url("Fonts/IQOSW10-Light.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW04-Light";
+        src:url("Fonts/IQOSW04-Light.woff2") format("woff2"),url("Fonts/IQOSW04-Light.woff") format("woff");
+    }
+    @font-face{
+        font-family:"IQOSW01-Light";
+        src:url("Fonts/IQOSW01-Light.woff2") format("woff2"),url("Fonts/IQOSW01-Light.woff") format("woff");
+    }
